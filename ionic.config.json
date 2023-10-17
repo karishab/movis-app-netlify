@@ -1,0 +1,7 @@
+{
+  "name": "movis-app-netlify",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "custom"
+}

@@ -1,0 +1,8 @@
+{
+  "appId": "movis-app-netlify",
+  "appName": "movis-app-netlify",
+  "webDir": "build",
+  "server": {
+    "androidScheme": "https"
+  }
+}
