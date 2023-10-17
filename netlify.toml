@@ -2,13 +2,9 @@
   package = "@netlify/plugin-nextjs"
 
 [build]
-command = "npm run build && npm run export"
-publish="out"
+command = "npm run build"
+publish="/build"
 base = "/"
 node_bundler = "esbuild"
 external_node_modules = ["lodash", "axios"]
 
-[[redirects]]
-from = "/*"
-to = "/index.html"
-status = 200
