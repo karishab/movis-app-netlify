@@ -1,0 +1,19 @@
+{
+  "/_not-found": "app/_not-found.js",
+  "/api/auth/[...nextauth]/route": "app/api/auth/[...nextauth]/route.js",
+  "/browse/page": "app/browse/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/movies/page": "app/movies/page.js",
+  "/my-list/[...id]/page": "app/my-list/[...id]/page.js",
+  "/page": "app/page.js",
+  "/search/[query]/page": "app/search/[query]/page.js",
+  "/tv/page": "app/tv/page.js",
+  "/watch/[...id]/page": "app/watch/[...id]/page.js",
+  "/api/account/get-all-accounts/route": "app/api/account/get-all-accounts/route.js",
+  "/api/account/login-to-account/route": "app/api/account/login-to-account/route.js",
+  "/api/account/remove-account/route": "app/api/account/remove-account/route.js",
+  "/api/account/create-account/route": "app/api/account/create-account/route.js",
+  "/api/favorites/add-favorite/route": "app/api/favorites/add-favorite/route.js",
+  "/api/favorites/get-all-favorites/route": "app/api/favorites/get-all-favorites/route.js",
+  "/api/favorites/remove-favorite/route": "app/api/favorites/remove-favorite/route.js"
+}
