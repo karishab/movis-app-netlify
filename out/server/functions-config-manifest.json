@@ -1,1 +1,0 @@
-{"version":1,"functions":{"/api/account/create-account":{},"/api/account/get-all-accounts":{},"/api/account/login-to-account":{},"/api/account/remove-account":{},"/api/favorites/add-favorite":{},"/api/favorites/get-all-favorites":{},"/api/favorites/remove-favorite":{}}}
